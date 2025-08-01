@@ -1,4 +1,4 @@
-# CodeAlpha_Task1_and_Task4: Machine Learning Tasks for CodeAlpha Internship
+# Codealpha_tasks: Machine Learning Tasks for CodeAlpha Internship
 This repository contains completed machine learning tasks as part of the CodeAlpha internship program.
 
 ## ✅ Task 1: Credit Scoring Model
